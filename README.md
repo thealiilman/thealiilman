@@ -1,4 +1,4 @@
-### Hallo! 🤓
+# Hallo! 🤓
 
 ## About me
 I'm a Ali, a 19-year-old software engineer and speaker. I work mainly with JavaScript, React.js, Ruby and Ruby on Rails. Other than these technologies, I'm getting my hands dirty with TypeScript, Docker and serverless.
