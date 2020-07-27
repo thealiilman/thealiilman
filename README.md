@@ -1,7 +1,7 @@
 # Hallo! 🤓
 
 ## About me
-I'm a Ali, a 19-year-old software engineer and speaker. I work mainly with JavaScript, React.js, Ruby and Ruby on Rails. Other than these technologies, I'm getting my hands dirty with TypeScript, Docker and serverless.
+I'm Ali, a 19-year-old software engineer and speaker. I work mainly with JavaScript, React.js, Ruby and Ruby on Rails. Other than these technologies, I'm getting my hands dirty with TypeScript, Docker and serverless.
 
 I've 2 years of professional experience, and I've been working for a digital agency called [Suria Labs](https://surialabs.com) since January 2018. Throughout the past 2 years, I've worked on 8 internal and client projects.
 
