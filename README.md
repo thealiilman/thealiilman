@@ -13,15 +13,25 @@ I've 2 years of professional experience, and I've been working for a digital age
 
 - I rapidly fixed a high-priority bug on AirAsia Deals when we were chasing a deadline. This bug was preventing us from making a payment with a non-MYR currency. This is a notable achievement for me because I was initially brought onto the project to fix this bug and **I was unfamiliar with the codebase**.
 
+- I sped up a Rails test-suite that took on average 43 minutes down to an average of 17 minutes to run locally. This used to take around 12-15 minutes on Circle CI. After the enhancement, it takes around 5-7 minutes. 🎉 This could've been sped up further but sacrificing the readability of the tests isn't a good idea.
+
 - I wrote a _partner category importer_ on [AirAsia Activities](https://airasia.com/activities). The _partner category importer_ imports categories from Viator, one of the activity providers on AirAsia Activities. These categories are then matched to our own categories, which gives us the ability to auto-assign categories to certain activities whenever we import activities from Viator.
 
-- And more to follow!
+- I did the initial back-end implementation for smec.io's company signup process. Multi-tenancy was already set-up, so I built the signup feature with multi-tenancy in mind.
 
-### My journey
-I was homeschooled from the age of 10 until 16. I first dived into programming at the age of 13, writing my first JavaScript code on KhanAcademy.
+- And more to be filled!
+
+<!-- ### What am I looking for?
+Although I love my current job, I'm passively looking for my next one. I'm at that stage of my life where I'm ready to tick a few things off my bucket list. So, what am I looking for my next role?
+- A company that promotes a **_growth culture_**.
+- A company that has diverse teams
+- A company that develops their own product(s). -->
 
 ### What am I looking for?
 _To Be Filled_
+
+### My journey
+I was homeschooled from the age of 10 until 16. I first dived into programming at the age of 13, writing my first JavaScript code on KhanAcademy.
 
 ### Social media
 [LinkedIn](https://www.linkedin.com/in/aliilman/), [Twitter](https://twitter.com/thealiilman), [Instagram](https://instagram.com/thealiilman)
