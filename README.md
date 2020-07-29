@@ -6,7 +6,7 @@ I develop back-ends by applying TDD and using SOLID principles as a guide, ensur
 
 I've 2 years of professional experience, and I've been working for a digital agency called [Suria Labs](https://surialabs.com) since January 2018. Throughout the past 2 years, I've worked on 8 internal and client projects, including [smec.io](https://smec.io) and [AirAsia Deals](https://airasia.com/deals).
 
-### Notable achievements
+<!-- ### Notable achievements
 - I was involved in the integration of AirAsia's order management system into AirAsia Deals. I was responsible for creating a webhook that updates the payment and sends emails for successful / unsuccessful payments.
 
 - I updated the process of redeeming BIG Points on AirAsia Deals by moving the APIs from Node.js to Rails and rewriting certain parts of BIG Points redemption in the front-end.
@@ -19,7 +19,7 @@ I've 2 years of professional experience, and I've been working for a digital age
 
 - I did the initial back-end implementation for smec.io's company signup process. Multi-tenancy was already set-up, so I built the signup feature with multi-tenancy in mind.
 
-- And more to be filled!
+- And more to be filled! -->
 
 <!-- ### What am I looking for?
 Although I love my current job, I'm passively looking for my next one. I'm at that stage of my life where I'm ready to tick a few things off my bucket list. So, what am I looking for my next role?
