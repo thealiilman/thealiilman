@@ -4,7 +4,7 @@ I'm Ali, a 19-year-old software engineer and [speaker](https://ali-ilman.com/tal
 
 I develop back-ends by applying TDD and using SOLID principles as a guide, ensuring isolation of business logic and ease of writing tests.
 
-I've 2 years of professional experience, and I've been working for a digital agency called [Suria Labs](https://surialabs.com) since January 2018. Throughout the past 2 years, I've worked on 8 internal and client projects, including [smec.io](https://smec.io) and [AirAsia Deals](https://airasia.com/deals).
+I've 2 years of professional experience, and I've been working for an agency called [Suria Labs](https://surialabs.com) since January 2018. Throughout the past 2 years, I've worked on 8 internal and client projects, including [smec.io](https://smec.io) and [AirAsia Deals](https://airasia.com/deals).
 
 <!-- ### Notable achievements
 - I was involved in the integration of AirAsia's order management system into AirAsia Deals. I was responsible for creating a webhook that updates the payment and sends emails for successful / unsuccessful payments.
