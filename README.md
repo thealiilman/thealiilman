@@ -1,6 +1,6 @@
 # Hallo! 🤓
 
-I'm Ali, a 19-year-old software engineer and [speaker](https://ali-ilman.com/talks). I work mainly with JavaScript, React.js, Ruby and Ruby on Rails. Other than these technologies, I'm getting my hands dirty with Docker and Kubernetes.
+I'm Ali, a 20-year-old software engineer and [speaker](https://ali-ilman.com/talks). I work mainly with JavaScript, React.js, Ruby and Ruby on Rails. Other than these technologies, I'm getting my hands dirty with Docker and Kubernetes.
 
 Check out my portfolio at [ali-ilman.com](https://ali-ilman.com). :v:
 ### Social media
