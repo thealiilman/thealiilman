@@ -1,6 +1,6 @@
-# Hallo! 🤓
+# Assalamualaikum! Hello! Hallo! Dober dan! Hej! 🤓
 
-I am currently working at IKHLAS; joined in March 2023 after a little over a year on sabbatical.
+I am currently working at [IKHLAS](https://ikhlas.com); joined in March 2023 after a little over a year on sabbatical.
 
 Throughout my career so far, I've worked on 11 projects of various sizes, including [Oslo Mikrobuldreri](https://www.oslomikrobuldreri.no/), a self-serving indoor rock-climbing gym in Oslo, and the currently inactive [AirAsia Activities](https://www.airasia.com/activities/), an activity trip planner platform.
 
