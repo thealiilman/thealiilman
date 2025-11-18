@@ -10,9 +10,6 @@ I have been walking the path less travelled. I was homeschooled from the age of 
 
 Fast forward to 2025, I can say that not following the crowd doesn’t mean it’s a bad thing. Everyone has their own adventure!
 
-### Social media
-[LinkedIn](https://www.linkedin.com/in/aliilman/)
-
 <!--
 **thealiilman/thealiilman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
