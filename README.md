@@ -8,7 +8,7 @@ When I'm not writing code, one can find me barefooted on grass with a book in ha
 
 I have been walking the path less travelled. I was homeschooled from the age of 10 until 16. My journey into programming started when I was 13, writing my first JavaScript code on a platform called KhanAcademy, but I became frustrated due to the tutorials requiring me to draw shapes. But my interest in programming never waned; I was fascinated by what one can do with code. Afterwards, I found out about Codecademy. Long story short, programming became more than just a hobby.
 
-Fast forward to 2025, I can say that not following the crowd doesn’t mean it’s a bad thing. Everyone has their own adventure!
+Fast forward to 2026, I can say that not following the crowd doesn’t mean it’s a bad thing. Everyone has their own adventure!
 
 <!--
 **thealiilman/thealiilman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
