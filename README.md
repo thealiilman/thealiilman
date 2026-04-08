@@ -1,6 +1,6 @@
 # Assalamualaikum! Hello! Hallo! Dober dan! Hej! 🤓
 
-A seasoned software engineer known for taking extreme ownership of projects and working closely with teams to deliver results. Before joining [IKHLAS](https://ikhlas.com), I was involved in 11 projects of various sizes, including: [Oslo Mikrobuldreri](https://www.oslomikrobuldreri.no/), a self-serving indoor rock-climbing gym in Oslo, and the now-defunct AirAsia Activities, an activity trip planner platform. I have been working remotely since joining IKHLAS.
+A seasoned software engineer known for taking extreme ownership of projects and working closely with teams to deliver results. Before joining [IKHLAS](https://ikhlas.com), I was involved in 11 projects of various sizes, including: [Oslo Mikrobuldreri](https://www.instagram.com/oslomikrobuldreri/?hl=en), a self-serving indoor rock-climbing gym in Oslo, and the now-defunct AirAsia Activities, an activity trip planner platform. I have been working remotely since joining IKHLAS.
 
 I work mainly using Next.js these days – in the past, I have used Ruby on Rails to build full-stack applications and React Native to build mobile applications.
 
